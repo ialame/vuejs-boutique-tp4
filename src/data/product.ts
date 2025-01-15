@@ -5,7 +5,7 @@ export default  [
   {
     id: 103,
     title : 'Mélodelfe',
-    set : 'jungle',
+    extension : 'jungle',
     image: 'src/assets/images/103.jpg',
     price  : 25,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
@@ -13,7 +13,7 @@ export default  [
   {
     id: 104,
     title : 'Électrode',
-    set : 'jungle',
+    extension : 'jungle',
     image: 'src/assets/images/104.jpg',
     price  : 35,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
@@ -21,7 +21,7 @@ export default  [
   {
     id: 105,
     title : 'Pyroli',
-    set : 'jungle',
+    extension : 'jungle',
     image: 'src/assets/images/105.jpg',
     price  : 45,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
@@ -29,7 +29,7 @@ export default  [
   {
     id: 111,
     title : 'Scarabrute',
-    set : 'jungle',
+    extension : 'jungle',
     image: 'src/assets/images/111.jpg',
     price  : 55,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
@@ -37,7 +37,7 @@ export default  [
   {
     id: 167,
     title : 'Ptera',
-    set : 'fossile',
+    extension : 'fossile',
     image: 'src/assets/images/167.jpg',
     price  : 65,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
@@ -45,7 +45,7 @@ export default  [
   {
     id: 168,
     title : 'Artikodin',
-    set : 'fossile',
+    extension : 'fossile',
     image: 'src/assets/images/168.jpg',
     price  : 65,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
@@ -53,7 +53,7 @@ export default  [
   {
     id: 170,
     title : 'Dracolosse',
-    set : 'fossile',
+    extension : 'fossile',
     image: 'src/assets/images/170.jpg',
     price  : 75,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
@@ -61,7 +61,7 @@ export default  [
   {
     id: 176,
     title : 'Lokhlass',
-    set : 'fossile',
+    extension : 'fossile',
     image: 'src/assets/images/176.jpg',
     price  : 85,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
@@ -69,7 +69,7 @@ export default  [
   {
     id: 1051,
     title : 'Alakazam',
-    set : 'Expedition',
+    extension : 'Expedition',
     image: 'src/assets/images/1051.jpg',
     price  : 25,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
@@ -77,7 +77,7 @@ export default  [
   {
     id: 1053,
     title : 'Arbok',
-    set : 'Expedition',
+    extension : 'Expedition',
     image: 'src/assets/images/1053.jpg',
     price  : 35,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
@@ -85,7 +85,7 @@ export default  [
   {
     id: 1055,
     title : 'Papilusion',
-    set : 'Expedition',
+    extension : 'Expedition',
     image: 'src/assets/images/1055.jpg',
     price  : 45,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
@@ -93,7 +93,7 @@ export default  [
   {
     id: 1059,
     title : 'Dracolosse',
-    set : 'Expedition',
+    extension : 'Expedition',
     image: 'src/assets/images/1059.jpg',
     price  : 55,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
@@ -101,7 +101,7 @@ export default  [
   {
     id: 1216,
     title : 'Pharamp',
-    set : 'Aquapolis',
+    extension : 'Aquapolis',
     image: 'src/assets/images/1216.jpg',
     price  : 65,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
@@ -109,7 +109,7 @@ export default  [
   {
     id: 1218,
     title : 'Migalos',
-    set : 'Aquapolis',
+    extension : 'Aquapolis',
     image: 'src/assets/images/1218.jpg',
     price  : 65,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
@@ -117,7 +117,7 @@ export default  [
   {
     id: 1219,
     title : 'Azumarill',
-    set : 'Aquapolis',
+    extension : 'Aquapolis',
     image: 'src/assets/images/1219.jpg',
     price  : 75,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
@@ -125,7 +125,7 @@ export default  [
   {
     id: 1220,
     title : 'Joliflor',
-    set : 'Aquapolis',
+    extension : 'Aquapolis',
     image: 'src/assets/images/1220.jpg',
     price  : 85,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
