@@ -69,7 +69,7 @@ export default  [
   {
     id: 1051,
     title : 'Alakazam',
-    extension : 'Expedition',
+    extension : 'expedition',
     image: 'src/assets/images/1051.jpg',
     price  : 25,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
@@ -77,7 +77,7 @@ export default  [
   {
     id: 1053,
     title : 'Arbok',
-    extension : 'Expedition',
+    extension : 'expedition',
     image: 'src/assets/images/1053.jpg',
     price  : 35,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
@@ -85,7 +85,7 @@ export default  [
   {
     id: 1055,
     title : 'Papilusion',
-    extension : 'Expedition',
+    extension : 'expedition',
     image: 'src/assets/images/1055.jpg',
     price  : 45,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
@@ -93,7 +93,7 @@ export default  [
   {
     id: 1059,
     title : 'Dracolosse',
-    extension : 'Expedition',
+    extension : 'expedition',
     image: 'src/assets/images/1059.jpg',
     price  : 55,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
@@ -101,7 +101,7 @@ export default  [
   {
     id: 1216,
     title : 'Pharamp',
-    extension : 'Aquapolis',
+    extension : 'aquapolis',
     image: 'src/assets/images/1216.jpg',
     price  : 65,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
@@ -109,7 +109,7 @@ export default  [
   {
     id: 1218,
     title : 'Migalos',
-    extension : 'Aquapolis',
+    extension : 'aquapolis',
     image: 'src/assets/images/1218.jpg',
     price  : 65,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
@@ -117,7 +117,7 @@ export default  [
   {
     id: 1219,
     title : 'Azumarill',
-    extension : 'Aquapolis',
+    extension : 'aquapolis',
     image: 'src/assets/images/1219.jpg',
     price  : 75,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
@@ -125,7 +125,7 @@ export default  [
   {
     id: 1220,
     title : 'Joliflor',
-    extension : 'Aquapolis',
+    extension : 'aquapolis',
     image: 'src/assets/images/1220.jpg',
     price  : 85,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
